@@ -3,9 +3,9 @@ I have compiled a list of OSINT tools that may be useful to you when conducting 
 Unless further clarified, the site or project has versions in Kazakh and Russian only. Some resources have English language versions as well
 ## Open Data portals
 ### [E-Gov](https://egov.kz/cms/en). Electronic Government of Republic of Kazakhstan
-Most functions are available only if you have an INN — [individual identification number](https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/kazakhstan-tin.pdf) of a resident of the republic. 
+Most functions are available only if you have an IIN — [individual identification number](https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/kazakhstan-tin.pdf) of a resident of the republic. 
 
-- INN is the primary identifier for individuals. All resident's data is associated with it, from participation in legal entities to pension contributions and taxes. 
+- IIN is the primary identifier for individuals. All resident's data is associated with it, from participation in legal entities to pension contributions and taxes. 
 - The second important identifier is BIN - Business Identification Number - a unique number formed for a legal entity and an individual entrepreneur carrying out joint venture activities in the territory of the Republic of Kazakhstan.
 ### [E-Gov Open Data](https://data.egov.kz/)
 Open data is a part of Open Government of the republic of Kazakhstan.
