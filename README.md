@@ -19,9 +19,9 @@ Shareholdings, reporting, beneficiaries, affiliates.
 English version available 
 ## Search for data of legal entities, individual entrepreneurs, managers, founders of companies
 ### [Kompra KZ](https://kompra.kz/)
-Non-free. It is something about 5 checks. The service has some data on sanctions and offshore, but much of this data can be obtained for free from international services.
+Non-free. The service has some data on sanctions and offshore, but much of this data can be obtained for free from international services.
 
-- Use promocode POGODA to get KZT 2500 on your balance.
+- Use promocode POGODA to get KZT 2500 on your balance. It is something about 5 checks
 ### [PK.ADATA.KZ](https://pk.adata.kz/)
 Partially free. Register to get 5 checks daily
 ### [PK.UCHET.KZ](https://pk.uchet.kz/)
