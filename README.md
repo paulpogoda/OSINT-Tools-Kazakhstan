@@ -34,10 +34,10 @@ English version available
 ## Checking vehicle history by licence plate number
 ### [Aster.kz](https://aster.kz/aster-check)
 Check on databases, history of owners and co-owners. Check by databases of Kazakhstan and Russia
-The public procurement portal provides the following capabilities:
+
 ## Public procurement
 ## [Public procurement portal](https://goszakup.gov.kz/)
-The public procurement portal (goszakup.gov.kz ) is a state information system that provides a single point of access to the services of electronic public procurement.
+The public procurement portal (goszakup.gov.kz ) is a state information system that provides a single point of access to the services of electronic public procurement. The public procurement portal provides the following capabilities:
 
 - registration of participants in the public procurement process;
 - public procurement planning;
