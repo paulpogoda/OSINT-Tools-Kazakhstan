@@ -8,9 +8,9 @@ Most functions are available only if you have an IIN — [individual identificat
 - IIN is the primary identifier for individuals. All resident's data is associated with it, from participation in legal entities to pension contributions and taxes. 
 - The second important identifier is BIN - Business Identification Number - a unique number formed for a legal entity and an individual entrepreneur carrying out joint venture activities in the territory of the Republic of Kazakhstan.
 ### [E-Gov Open Data](https://data.egov.kz/)
-Open data is a part of Open Government of the republic of Kazakhstan.
+Open data is a part of the Open Government of the Republic of Kazakhstan.
 
-Find, load and use set of data which being created by state authorities. Portal contains description of state set of data, also information about how to have access to the data and to additional tools. Set of data catalogues, also data will be refilled regularly.
+Find, load, and use a set of data created by state authorities. The portal contains a description of the state set of data and information about how to access the data and additional tools. The set of data catalogues will also be refilled regularly.
 
 English version available 
 ### [Open Data of Kazakhstan stock exchange KASE](https://kase.kz/ru/issuers/)
@@ -19,7 +19,7 @@ Shareholdings, reporting, beneficiaries, affiliates.
 English version available 
 ## Search for data of legal entities, individual entrepreneurs, managers, founders of companies
 ### [Kompra KZ](https://kompra.kz/)
-Non-free. The service has some data on sanctions and offshore, but much of this data can be obtained for free from international services.
+Non-free. But this is the best platform to get full information about Kazakhstani legal entities. The service has some data on sanctions and offshore, but much of this data can be obtained for free from international services.
 
 - Use promocode POGODA to get KZT 2500 on your balance. It is something about 5 checks
 ### [PK.ADATA.KZ](https://pk.adata.kz/)
@@ -37,7 +37,7 @@ Check on databases, history of owners and co-owners. Check by databases of Kazak
 The public procurement portal provides the following capabilities:
 ## Public procurement
 ## [Public procurement portal](https://goszakup.gov.kz/)
-Public procurement portal (goszakup.gov.kz ) is a state information system that provides a single point of access to the services of electronic public procurement.
+The public procurement portal (goszakup.gov.kz ) is a state information system that provides a single point of access to the services of electronic public procurement.
 
 - registration of participants in the public procurement process;
 - public procurement planning;
