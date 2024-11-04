@@ -1,6 +1,15 @@
 # OSINT-Tools-Kazakhstan
 I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Do you want me to add more? Make a pull-request.
 Unless further clarified, the site or project has versions in Kazakh and Russian only. Some resources have English language versions as well
+
+ ## Table of content:
+ - [Open Data portals](##open-data-portals)
+ - [Legal Entities](##legal-entities)
+ - [Cadastral Maps](##maps)
+ - [Vehicles](##vehicles)
+ - [Phones etc.](##phones)
+ - [Public procurements](##public-procurement)
+
 ## Open Data portals
 ### [E-Gov](https://egov.kz/cms/en). Electronic Government of Republic of Kazakhstan
 Most functions are available only if you have an IIN — [individual identification number](https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/kazakhstan-tin.pdf) of a resident of the republic. 
@@ -17,7 +26,8 @@ English version available
 Shareholdings, reporting, beneficiaries, affiliates.
 
 English version available 
-## Search for data of legal entities, individual entrepreneurs, managers, founders of companies
+## Legal Entities
+Search for data of legal entities, individual entrepreneurs, managers, founders of companies
 ### [Kompra KZ](https://kompra.kz/)
 Non-free. But this is the best platform to get full information about Kazakhstani legal entities. The service has some data on sanctions and offshore, but much of this data can be obtained for free from international services.
 
@@ -26,14 +36,30 @@ Non-free. But this is the best platform to get full information about Kazakhstan
 Partially free. Register to get 5 checks daily
 ### [PK.UCHET.KZ](https://pk.uchet.kz/)
 Partially free. Register to get 2 checks monthly
+### [Taxpayer Search. Official database of the State Revenue Committee](https://kgd.gov.kz/en/services/taxpayer_search/entrepreneur)
+Use IIN or BIN to find information. English version available.
+### [Check Arrests. Official database of the Ministry of Justice](https://aisoip.adilet.gov.kz/forCitizens/findArest)
+Verification of arrest on bank accounts, ban on exitb ban on registration actions, E-Notary, arrest on property, arrest on transport. Target IIN required
+### [FA-FA.KZ](https://fa-fa.kz/search_ip_too/) 
+Search by company name, BIN, check company activity, tax deductions for the last several years, check in the register of debtors for enforcement proceedings, legal address, director's full name. Search by phone number supported. Registration is required to get some of the data
 ## Maps
 ### [Cadastral map](https://aisgzk.kz/aisgzk/ru/content/maps/)
 Russian and Kazakh versions available
 ### [Unified State Real Estate Cadastre](https://map.gov4c.kz/egkn/)
 English version available
-## Checking vehicle history by licence plate number
+## Vehicles
 ### [Aster.kz](https://aster.kz/aster-check)
-Check on databases, history of owners and co-owners. Check by databases of Kazakhstan and Russia
+Checking vehicle history by licence plate number. Check on databases, history of owners and co-owners. Check by databases of Kazakhstan and Russia
+### [AVTO.ADATA.KZ)](http://avto.adata.kz/)
+Use IIN/BIN to check offences
+
+## Phones
+### [Eye of God](https://t.me/yfzxzxqwqbot) 
+The Telegram bot was created for Russia, but it contains databases of Kazakhstani telecom operators. Non-free. Search bu phone number, name, email etc.
+### [@ShtrafKZBot](https://t.me/ShtrafKZBot)
+Bot for checking: fines/taxes/penalties by IIN/BIN; traffic fines by licence plate number and technical passport number.
+### [Spravochnik109](https://spravochnik109.link/kazahstan) 
+Search by landline numbers, part of mobile numbers, by cities and regions, by first and last name, by address
 
 ## Public procurement
 ## [Public procurement portal](https://goszakup.gov.kz/)
