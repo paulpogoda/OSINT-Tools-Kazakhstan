@@ -3,12 +3,12 @@ I have compiled a list of OSINT tools that may be useful to you when conducting 
 Unless further clarified, the site or project has versions in Kazakh and Russian only. Some resources have English language versions as well
 
  ## Table of content:
- - [Open Data portals](##open-data-portals)
- - [Legal Entities](##legal-entities)
- - [Cadastral Maps](##maps)
- - [Vehicles](##vehicles)
- - [Phones etc.](##phones)
- - [Public procurements](##public-procurement)
+ - [Open Data portals](#open-data-portals)
+ - [Legal Entities](#legal-entities)
+ - [Cadastral Maps](#maps)
+ - [Vehicles](#vehicles)
+ - [Phones etc.](#phones)
+ - [Public procurements](#public-procurement)
 
 ## Open Data portals
 ### [E-Gov](https://egov.kz/cms/en). Electronic Government of Republic of Kazakhstan
