@@ -37,7 +37,7 @@ Partially free. Register to get 5 checks daily
 ### [PK.UCHET.KZ](https://pk.uchet.kz/)
 Partially free. Register to get 2 checks monthly
 ### [DFO.kz — Financial Reporting Depository](https://opi.dfo.kz/p/ru/dfo-search/opi-search)
-The Internet resource of the Financial Reporting Depository (hereinafter - the Portal) was created to provide access to an electronic database where interested parties can find and view corporate events and lists of affiliated persons of joint stock companies, as well as annual financial statements and audit reports of public interest organisations.
+The Internet resource of the Financial Reporting Depository was created to provide access to an electronic database where interested parties can find and view corporate events and lists of affiliated persons of joint stock companies, as well as annual financial statements and audit reports of public interest organisations.
 ### [Taxpayer Search. Official database of the State Revenue Committee](https://kgd.gov.kz/en/services/taxpayer_search/entrepreneur)
 Use IIN or BIN to find information. English version available.
 ### [Check Arrests. Official database of the Ministry of Justice](https://aisoip.adilet.gov.kz/forCitizens/findArest)
