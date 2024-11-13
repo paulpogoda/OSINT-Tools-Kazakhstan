@@ -1,5 +1,5 @@
 # OSINT-Tools-Kazakhstan
-<img src="https://github.com/paulpogoda/OSINT-Tools-Kazakhstan/blob/main/Flag_of_Kazakhstan.svg.png" alt="Flag of Kazakhstan" style="height: 640px; width:1280px;"/>
+<img src="https://github.com/paulpogoda/OSINT-Tools-Kazakhstan/blob/main/Flag_of_Kazakhstan.svg.png" alt="Flag of Kazakhstan" style="height: 320px; width:640px;"/>
 I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Do you want me to add more? Make a pull-request.
 Unless further clarified, the site or project has versions in Kazakh and Russian only. Some resources have English language versions as well
 
