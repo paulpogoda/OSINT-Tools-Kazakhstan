@@ -10,6 +10,7 @@ Unless further clarified, the site or project has versions in Kazakh and Russian
  - [Vehicles](#vehicles)
  - [Phones etc.](#phones)
  - [Public procurements](#public-procurement)
+ - [WHOIS](#whois)
 
 ## Open Data portals
 ### [E-Gov](https://egov.kz/cms/en). Electronic Government of Republic of Kazakhstan
@@ -68,7 +69,7 @@ Bot for checking: fines/taxes/penalties by IIN/BIN; traffic fines by licence pla
 Search by landline numbers, part of mobile numbers, by cities and regions, by first and last name, by address
 
 ## Public procurement
-## [Public procurement portal](https://goszakup.gov.kz/)
+### [Public procurement portal](https://goszakup.gov.kz/)
 The public procurement portal (goszakup.gov.kz ) is a state information system that provides a single point of access to the services of electronic public procurement. The public procurement portal provides the following capabilities:
 
 - registration of participants in the public procurement process;
@@ -79,3 +80,9 @@ The public procurement portal (goszakup.gov.kz ) is a state information system t
 - generation of statistics and reporting on public procurements;
 - publication of explanations and regulatory background information in the field of public procurement;
 - provision and publication of data included into the public procurement registers.
+
+## WHOIS
+- [Hoster](https://hoster.kz/whois/)
+- [WhoisKZ](https://whois.kz)
+- [PS](https://www.ps.kz/domains/whois/)
+- [KazNIC](https://www.nic.kz/cgi-bin/whois)
