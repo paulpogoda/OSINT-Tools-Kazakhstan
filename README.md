@@ -21,6 +21,9 @@ Open data is a part of the Open Government of the Republic of Kazakhstan.
 
 Find, load, and use a set of data created by state authorities. The portal contains a description of the state set of data and information about how to access the data and additional tools. The set of data catalogues will also be refilled regularly.
 
+### [StatKZKGUZTJ](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0)
+My own CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
+
 English version available 
 ### [Open Data of Kazakhstan stock exchange KASE](https://kase.kz/ru/issuers/)
 Shareholdings, reporting, beneficiaries, affiliates.
