@@ -1,12 +1,12 @@
 # OSINT-Tools-Kazakhstan
 <img src="https://github.com/paulpogoda/OSINT-Tools-Kazakhstan/blob/main/Flag_of_Kazakhstan.svg.png" alt="Flag of Kazakhstan" style="height: 320px; width:640px;"/>
-I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Do you want me to add more? Make a pull-request.
-Unless further clarified, the site or project has versions in Kazakh and Russian only. Some resources have English language versions as well. 
+I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Would you like me to add more? Make a pull request.
+Unless further clarified, the site or project has versions in Kazakh and Russian only. Some resources have English versions as well. 
 
-Some functions are available only for residents of Kazakhstan. So for deeper OSINT, you have to find a friend in Kazakhstan (like me). Have you ever been there? No! Then you should
-visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Activities-Almaty.html)! 
+Some functions are available only for residents of Kazakhstan. So for deeper OSINT, you have to find a friend in Kazakhstan (like me). Have you ever been there? No? Then you should
+visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Activities-Almaty.html)!  
 
- ## Table of content:
+ ## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral Maps](#maps)
@@ -16,26 +16,26 @@ visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Ac
  - [WHOIS](#whois)
 
 ## Open Data portals
-### [E-Gov](https://egov.kz/cms/en). Electronic Government of Republic of Kazakhstan
+### [E-Gov](https://egov.kz/cms/en). Electronic Government of the Republic of Kazakhstan
 Most functions are available only if you have an IIN — [individual identification number](https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/kazakhstan-tin.pdf) of a resident of the republic. 
 
-- IIN is the primary identifier for individuals. All resident's data is associated with it, from participation in legal entities to pension contributions and taxes. 
+- IIN is the primary identifier for individuals. All country resident's data is associated with IIN, from participation in legal entities to pension contributions and taxes. 
 - The second important identifier is BIN - Business Identification Number - a unique number formed for a legal entity and an individual entrepreneur carrying out joint venture activities in the territory of the Republic of Kazakhstan.
 ### [E-Gov Open Data](https://data.egov.kz/)
 Open data is a part of the Open Government of the Republic of Kazakhstan.
 
-Find, load, and use a set of data created by state authorities. The portal contains a description of the state set of data and information about how to access the data and additional tools. The set of data catalogues will also be refilled regularly.
+Find, load, and use a set of data created by state authorities. The portal contains a description of the state set of data and information about how to access the data and additional tools. The set of data catalogs will also be refilled regularly.
 
 English version available
 ### [StatKZKGUZTJ](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0)
-My own CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
+My CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
  
 ### [Open Data of Kazakhstan stock exchange KASE](https://kase.kz/ru/issuers/)
 Shareholdings, reporting, beneficiaries, affiliates.
 
 English version available 
 ## Legal Entities
-Search for data of legal entities, individual entrepreneurs, managers, founders of companies
+Search for data on legal entities, individual entrepreneurs, managers, founders of companies
 ### [Kompra KZ](https://kompra.kz/)
 Non-free. But this is the best platform to get full information about Kazakhstani legal entities. The service has some data on sanctions and offshore, but much of this data can be obtained for free from international services.
 
@@ -70,6 +70,8 @@ The Telegram bot was created for Russia, but it contains databases of Kazakhstan
 Bot for checking: fines/taxes/penalties by IIN/BIN; traffic fines by licence plate number and technical passport number.
 ### [Spravochnik109](https://spravochnik109.link/kazahstan) 
 Search by landline numbers, part of mobile numbers, by cities and regions, by first and last name, by address
+### Try [OSINT Industries](https://app.osint.industries)
+Looks like their database for phone numbers in Central Asia countries is growing up. Non-free. Nice free options for investigators
 
 ## Public procurement
 ### [Public procurement portal](https://goszakup.gov.kz/)
