@@ -71,7 +71,7 @@ Bot for checking: fines/taxes/penalties by IIN/BIN; traffic fines by licence pla
 ### [Spravochnik109](https://spravochnik109.link/kazahstan) 
 Search by landline numbers, part of mobile numbers, by cities and regions, by first and last name, by address
 ### Try [OSINT Industries](https://app.osint.industries)
-Looks like their database for phone numbers in Central Asia countries is growing up. Non-free. Nice free options for investigators
+Looks like their search for phone numbers in Central Asia countries is growing up. Non-free. Nice free options for investigators
 
 ## Public procurement
 ### [Public procurement portal](https://goszakup.gov.kz/)
