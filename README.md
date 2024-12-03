@@ -9,12 +9,12 @@ visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Ac
 ## Contributions
 Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
- ## Table of contents:
+## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral Maps](#maps)
  - [Vehicles](#vehicles)
- - [Phones etc.](#phones)
+ - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
  - [WHOIS](#whois)
 
@@ -57,7 +57,7 @@ Checking vehicle history by licence plate number. Check on databases, history of
 - [AVTO.ADATA.KZ)](http://avto.adata.kz/).
 Use IIN/BIN to check offences
 
-## Phones
+## People
 - [Eye of God](https://t.me/yfzxzxqwqbot). The Telegram bot was created for Russia, but it contains databases of Kazakhstani telecom operators. Non-free. Search bu phone number, name, email etc.
 - [@ShtrafKZBot](https://t.me/ShtrafKZBot).
 Bot for checking: fines/taxes/penalties by IIN/BIN; traffic fines by licence plate number and technical passport number.
