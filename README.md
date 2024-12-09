@@ -65,6 +65,8 @@ Bot for checking: fines/taxes/penalties by IIN/BIN; traffic fines by licence pla
 Search by landline numbers, part of mobile numbers, by cities and regions, by first and last name, by address
 - Try [OSINT Industries](https://app.osint.industries).
 Looks like their search for phone numbers in Central Asia countries is growing up. Non-free. Nice free options for investigators
+- [Social Search CSE by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). 
+- See also updated [OSINT CSE List on GitHub](https://github.com/paulpogoda/OSINT-CSE)
 
 ## Public procurement
 ### [Public procurement portal](https://goszakup.gov.kz/)
