@@ -1,5 +1,5 @@
 # OSINT-Tools-Kazakhstan
-<img src="https://github.com/paulpogoda/OSINT-Tools-Kazakhstan/blob/main/Flag_of_Kazakhstan.svg.png" alt="Flag of Kazakhstan" style="height: 320px; width:640px;"/>
+<img src="https://github.com/paulpogoda/OSINT-Tools-Kazakhstan/blob/main/Flag_of_Kazakhstan.svg.png" alt="Flag of Kazakhstan"/>
 I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Would you like me to add more? Make a pull request.
 Unless further clarified, the site or project has versions in Kazakh and Russian, some resources have English versions as well. 
 
@@ -9,7 +9,7 @@ visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Ac
 ## Contributions
 Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
-## Table of content:
+## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
