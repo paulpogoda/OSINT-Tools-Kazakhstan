@@ -7,7 +7,7 @@ Some functions are available only for residents of Kazakhstan. So for deeper OSI
 visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Activities-Almaty.html)!  
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
