@@ -4,7 +4,9 @@ I have compiled a list of OSINT tools that may be useful to you when conducting 
 Unless further clarified, the site or project has versions in Kazakh and Russian, some resources have English versions as well. 
 
 Some functions are available only for residents of Kazakhstan. So for deeper OSINT, you have to find a friend in Kazakhstan (like me). Have you ever been there? No? Then you should
-visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Activities-Almaty.html)!  
+visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Activities-Almaty.html)!
+
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-Kazakhstan?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
